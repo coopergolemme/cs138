@@ -1,3 +1,8 @@
+# Mine
+.gitignore
+RLbook2020.pdf
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
